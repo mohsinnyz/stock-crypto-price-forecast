@@ -1,0 +1,8 @@
+torch
+pandas
+numpy
+scikit-learn
+yfinance
+huggingface_hub
+streamlit
+matplotlib
