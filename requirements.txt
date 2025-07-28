@@ -6,3 +6,4 @@ yfinance
 huggingface_hub
 streamlit
 matplotlib
+plotly

@@ -1,0 +1,29 @@
+#D:\stock-crypto-price-forecast\.gitignore
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# IDE-specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Streamlit cache/config files
+.streamlit/
+
+# Jupyter Notebook files (if you use them for development)
+.ipynb_checkpoints/
+*.ipynb
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# YFinance cache (if it creates any, though less common to see directly)
+# yfinance_cache/
