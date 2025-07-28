@@ -1,10 +1,5 @@
-Good idea ✅ — a **README.md** will make your project professional and easy to understand.
 
----
-
-## 📌 **Example `README.md` for Your Project**
-
-```markdown
+```
 # 📈 Stock & Crypto Price Forecast (LSTM)
 
 A deep learning project that predicts stock and cryptocurrency prices using an LSTM model.  
