@@ -76,6 +76,21 @@ Interactive Plotly graph with:
 ![forecast](demo_screenshot/zoom2.png)
 ---
 
+---
+## Interactive Forecast Chart Controls
+The forecast graph is powered by Plotly, offering full interactivity directly in the browser:
+
+Feature	Description
+🔍 Zoom	Click and drag to select a specific region and zoom into it with scale control.
+🔎 Zoom In / Out	Use the toolbar buttons to zoom step-by-step.
+✋ Pan Mode	Move the entire graph in any direction by clicking and dragging.
+📈 Autoscale	Instantly reset to the original zoom level.
+📺 Fullscreen View	Expand the chart to full-screen mode for better analysis.
+📷 Save as PNG	Export the current view of the graph as a high-quality .png file.
+
+💡 These features help you deeply analyze market trends and predicted movements with just a few clicks — no code or setup required!
+---
+
 ## 🗃️ Tabs
 
 * 📈 **Forecast**: Visual + Metrics
@@ -139,25 +154,4 @@ Deployed via Streamlit Cloud
 
 ---
 
-````
-
----
-
-### ✅ Save This Forecast Visual as PNG
-
-To generate the **`forecast.png`** used in the `README.md`, add this code after the chart is created in `app.py`:
-
-```python
-fig.write_image("assets/forecast.png", scale=2)
-````
-
-Install dependencies if needed:
-
-```bash
-pip install -U kaleido
-```
-
-Then run the app once locally to generate the image.
-
----
 
