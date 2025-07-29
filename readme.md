@@ -81,12 +81,12 @@ Interactive Plotly graph with:
 The forecast graph is powered by Plotly, offering full interactivity directly in the browser:
 
 Feature	Description
-🔍 Zoom	Click and drag to select a specific region and zoom into it with scale control.
-🔎 Zoom In / Out	Use the toolbar buttons to zoom step-by-step.
-✋ Pan Mode	Move the entire graph in any direction by clicking and dragging.
-📈 Autoscale	Instantly reset to the original zoom level.
-📺 Fullscreen View	Expand the chart to full-screen mode for better analysis.
-📷 Save as PNG	Export the current view of the graph as a high-quality .png file.
+* 🔍 Zoom	Click and drag to select a specific region and zoom into it with scale control.
+* 🔎 Zoom In / Out	Use the toolbar buttons to zoom step-by-step.
+* ✋ Pan Mode	Move the entire graph in any direction by clicking and dragging.
+* 📈 Autoscale	Instantly reset to the original zoom level.
+* 📺 Fullscreen View	Expand the chart to full-screen mode for better analysis.
+* 📷 Save as PNG	Export the current view of the graph as a high-quality .png file.
 
 💡 These features help you deeply analyze market trends and predicted movements with just a few clicks — no code or setup required!
 ---
