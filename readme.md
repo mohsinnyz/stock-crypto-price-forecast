@@ -1,10 +1,7 @@
 
----
-
-### ✅ `README.md` (Markdown for Hugging Face & GitHub)
 
 ````markdown
-# 📈 Stock/Crypto Price Forecast with LSTM
+## 📈 Stock/Crypto Price Forecast with LSTM
 
 An AI-powered forecasting app that predicts next-day prices for stocks and cryptocurrencies using an LSTM model trained on historical market data.
 
