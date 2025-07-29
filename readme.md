@@ -4,7 +4,10 @@
 An AI-powered forecasting app that predicts next-day prices for stocks and cryptocurrencies using an LSTM model trained on historical market data.
 
 🌐 **Live Demo**: [https://mohsinnyz-stock-crypto-price-forecast.streamlit.app](https://mohsinnyz-stock-crypto-price-forecast.streamlit.app)  
+![forecast](demo_screenshot/ui.png)
 🤗 **Hugging Face Model**: [mohsinnyz/stock-crypto-price-forecast](https://huggingface.co/mohsinnyz/stock-crypto-price-forecast)
+
+
 
 ---
 
@@ -69,8 +72,8 @@ Interactive Plotly graph with:
 * Last 60 days trendline
 * Red dot for predicted price
 
-![forecast](demo_screenshot/ui.png)
-
+![forecast](demo_screenshot/zoom1.png)
+![forecast](demo_screenshot/zoom2.png)
 ---
 
 ## 🗃️ Tabs
