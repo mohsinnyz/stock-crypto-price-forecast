@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#533e70ff"         # Deep lavender (accent for buttons/links)
+backgroundColor="#246f73ff"      # Warm parchment tone (main background)
+secondaryBackgroundColor="#5d4d2f4a" # Subtle pink-beige for columns, cards
+textColor="#ffffffff"            # Rich dark brown text (easy on eyes)
+font="serif"                   # Adds elegance and bookish feel

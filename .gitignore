@@ -14,8 +14,9 @@ __pycache__/
 .vscode/
 .idea/
 
-# Streamlit cache/config files
-.streamlit/
+# Ignore everything in .streamlit except config.toml
+.streamlit/*
+!.streamlit/config.toml
 
 # Jupyter Notebook files (if you use them for development)
 .ipynb_checkpoints/
