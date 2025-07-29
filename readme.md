@@ -69,7 +69,7 @@ Interactive Plotly graph with:
 * Last 60 days trendline
 * Red dot for predicted price
 
-![forecast](assets/forecast.png)
+![forecast](demo_screenshot/ui.png)
 
 ---
 
