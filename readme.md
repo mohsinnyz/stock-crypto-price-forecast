@@ -1,6 +1,4 @@
 
-
-
 ## 📈 Stock/Crypto Price Forecast with LSTM
 
 An AI-powered forecasting app that predicts next-day prices for stocks and cryptocurrencies using an LSTM model trained on historical market data.
@@ -21,7 +19,7 @@ An AI-powered forecasting app that predicts next-day prices for stocks and crypt
 - Choose from popular options: `BTC-USD`, `ETH-USD`, `AAPL`, `TSLA`, `GOOGL`
 - Or enter any custom ticker supported by Yahoo Finance
 
-```
+```python
 option = st.selectbox("Choose a Ticker", ["BTC-USD", "ETH-USD", "AAPL", "GOOGL", "TSLA", "Custom"])
 ````
 
